@@ -2,7 +2,7 @@
 
 读秒倒计时
 -------------
-![]()
+![](https://github.com/Gunial/GGCountDownLabel/blob/master/CountDemo/读秒倒计时.gif)<br/>
 一句代码实现简单的读秒倒计时<br/>
 使用步骤:<br/>
 第一步:  #import "GGCountDownLabel.h"<br/>
